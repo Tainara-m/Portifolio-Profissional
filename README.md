@@ -1,8 +1,8 @@
-# ✨ Portfólio 3.0 — Tainara Martins
+# ✨ Portfólio Profissional — Tainara Martins
 
 Portfólio criativo moderno com foco em **UI/UX, Front-end e produto digital**.
 
-Desenvolvido com HTML, CSS e JavaScript puro, o projeto aplica conceitos de design system, glassmorphism, navegação responsiva e microinterações para criar uma experiência elegante, moderna e profissional.
+Desenvolvido com HTML, CSS e JavaScript puro, o projeto aplica conceitos de design system, glassmorphism, navegação responsiva e microinterações para criar uma experiência elegante, moderna e profissional. Houve uso de Inteligência Artificial em algumas etapas do projeto.
 
 ---
 
